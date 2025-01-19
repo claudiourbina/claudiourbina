@@ -1,5 +1,5 @@
 <h3 align="center"> Claudio Urbina </h3>
-<p align="center"> Sr. Machine Learning Engineer @ LATAM Airlines</p>
+<p align="center"> AI Lead @ LATAM Airlines</p>
 <p align="center"><i>"Love to play with deep neural networks."</i></p>
 
 ![python](https://img.shields.io/badge/code-Python-informational?logo=python&logoColor=white&color=3776AB) ![c++](https://img.shields.io/badge/code-C++-informational?logo=cplusplus&logoColor=white&color=00599C) ![js](https://img.shields.io/badge/code-JavaScript-informational?logo=javascript&logoColor=white&color=F7DF1E)
